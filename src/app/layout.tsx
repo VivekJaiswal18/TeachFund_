@@ -39,9 +39,9 @@ import Navbar from "@/components/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "thirdweb SDK + Next starter",
+  title: "TeachFund",
   description:
-    "Starter template for using thirdweb SDK with Next.js App router",
+    "TeachFund",
 };
 
 export default function RootLayout({
